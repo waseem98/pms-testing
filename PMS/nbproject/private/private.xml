@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/PMS/public/css/sb-admin.css</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Http/routes.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/.env</file>
+            <file>file:/D:/xampp/htdocs/PMS/database/migrations/2015_10_14_194915_add_investigation_table.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/resources/views/layouts/master.blade.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/public/css/entire.css</file>
+            <file>file:/D:/xampp/htdocs/PMS/config/app.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Http/Controllers/log_in.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/database/migrations/2015_10_27_173113_add_time_to_diagnosis.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/resources/views/child.blade.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Http/Controllers/searchPatient.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/resources/views/welcome.blade.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Http/Controllers/Patient_Controller.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Diagnosis.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Http/Controllers/patient.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/database/migrations/2015_10_14_194804_add_diagnosis_table.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/database/migrations/2015_10_27_150039_add_cascade_on_delete_on_diagnosis.php</file>
+            <file>file:/D:/xampp/htdocs/PMS/app/Patient.php</file>
+        </group>
+    </open-files>
+</project-private>
